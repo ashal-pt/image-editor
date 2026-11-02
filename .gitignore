@@ -1,0 +1,18 @@
+# Virtual environments
+emnv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Output files created by the app
+copy_*.png
+edited.png
+output.*
